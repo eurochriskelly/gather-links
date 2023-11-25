@@ -1,0 +1,14 @@
+{
+  "name": "gather-links",
+  "version": "1.0.0",
+  "description": "Gathers links in a folder and symlinks them in another. Good for focussing on refactoring specific file types such as css.",
+  "keywords": ["symlink", "file-management", "scripts"],
+  "bin": {
+    "gather-links": "./src/gather-links.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
